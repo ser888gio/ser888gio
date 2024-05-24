@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ser888gio/ser888gio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sergio, a computer science student currently passionate about building web applications. I leverage JavaScript, CSS, and HTML to bring ideas to life on the web.
 
-Here are some ideas to get you started:
+What I'm Working On:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Expanding my frontend development skills with React.js ⚛️
+    Honing my backend development knowledge in C# and Python
+
+Beyond Code:
+
+    I'm comfortable working with databases and utilizing SQL for data manipulation.
+    I leverage Figma for designing user interfaces before diving into code.
+
+Looking to:
+
+    Collaborate on open-source projects and contribute to the developer community.
+    Learn and grow alongside other passionate programmers.
+
+Feel free to reach out! Let's connect and discuss web development, or anything tech-related!
