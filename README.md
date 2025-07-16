@@ -85,11 +85,12 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ser888gio&&style=flat-square" align="center" />
 </div>  
-  
-<br/>  
 
-
-<br />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
