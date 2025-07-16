@@ -78,19 +78,11 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ser888gio&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ser888gio&" alt="ser888gio" />
-</div>  
-
-<br/>  
+</div>    
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ser888gio&&style=flat-square" align="center" />
 </div>  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
