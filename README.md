@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://i0.wp.com/media1.giphy.com/media/3oEdv7vedu6iAZoqTS/giphy.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
+
+<a href="https://linkedin.com/in/sergiu-nica-a9b3b220b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>   
 
 ### <div align="center">I'm Sergio, a junior developer 👨‍💻 with passion and eager to learn in real world project 🚀</div>  
   
@@ -19,16 +22,6 @@
   
 
 <br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ser888gio" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sergiu-nica-a9b3b220b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div> 
 
 
 ## My Skill Set  
@@ -66,8 +59,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Other  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -81,19 +72,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 </div>
-</td></tr></table>  
-
-<br/>  
-
-<br/>  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ser888gio/ser888gio/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+</td></tr></table>    
 
 ## Github Stats  
 <div align="center">
@@ -105,11 +84,8 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ser888gio&&style=flat-square" align="center" />
-
-
 </div>  
   
-
 <br/>  
 
 
