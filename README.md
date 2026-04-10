@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>   
 
-### <div align="center">I'm Sergio, a junior developer 👨‍💻 with passion and eager to learn in real world project 🚀</div>  
+### <div align="center">I'm Sergio, an AI engineer 👨‍💻 with passion and eager to learn in real world project 🚀</div>  
   
 
 - 🔭 I’m currently working on [PDF Chatbot](https://github.com/ser888gio/pdf-uploader)  
