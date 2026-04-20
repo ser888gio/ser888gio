@@ -9,16 +9,10 @@
 ### <div align="center">I'm Sergio, an AI engineer 👨‍💻 with passion and eager to learn in real world project 🚀</div>  
   
 
-- 🔭 I’m currently working on [PDF Chatbot](https://github.com/ser888gio/pdf-uploader)  
+- 🔭 I’m currently working on [Glosses] - a platform that enables active reading and helps learning from books.
   
+- 🌱 I’m currently learning Agent Harnessing, developing in pi.dev and native development.
 
-- 🌱 I’m currently learning creating SW that implements AI, specifically working with LangChain stack.  
-  
-
-- ❓ Got any questions? Let's connect and work together.  
-  
-
-- ⚡ Fun fact: I wish we invent Skynet so we get rid of stand-ups  
   
 
 <br/>  
