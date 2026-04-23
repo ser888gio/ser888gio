@@ -8,8 +8,7 @@
 
 ### <div align="center">I'm Sergio, an AI engineer 👨‍💻 with passion and eager to learn in real world project 🚀</div>  
   
-
-- 🔭 I’m currently working on [Glosses] - a platform that enables active reading and helps learning from books.
+- 🔭 I’m currently working on [Glosses](https://github.com/dzmbs/glosse) - a platform that enables active reading and helps learning from books.
   
 - 🌱 I’m currently learning Agent Harnessing, developing in pi.dev and native development.
 
