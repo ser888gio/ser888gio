@@ -1,82 +1,73 @@
+<!-- Header -->
 <div align="center">
-<img src="https://i0.wp.com/media1.giphy.com/media/3oEdv7vedu6iAZoqTS/giphy.gif" align="center" style="width: 100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Hi%2C%20I'm%20Sergio&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
 </div>
-
-<a href="https://linkedin.com/in/sergiu-nica-a9b3b220b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>   
-
-### <div align="center">I'm Sergio, an AI engineer 👨‍💻 with passion and eager to learn in real world project 🚀</div>  
-  
-- 🔭 I’m currently working on [Glosses](https://github.com/dzmbs/glosse) - a platform that enables active reading and helps learning from books.
-  
-- 🌱 I’m currently learning Agent Harnessing, developing in pi.dev and native development.
-
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table align="center"><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Other  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-</div>
-</td></tr></table>    
-
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ser888gio&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ser888gio&" alt="ser888gio" />
-</div>    
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ser888gio&&style=flat-square" align="center" />
-</div>  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+agents+and+LLM-powered+apps;Robotics+%2B+computer+vision+%2B+AR;Full-stack+with+React%2C+Next.js+and+Python;Always+learning+by+shipping+real+projects" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergiu-nica-2025-ai-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ser888gio&style=for-the-badge&color=7aa2f7&label=Profile+views" alt="Profile views" />
+</div>
 
+<br/>
 
+## 👨‍💻 About me
 
+- 🤖 AI engineer working across LLM apps, agents, computer vision and robotics.
+- 🔭 Building [**Glosse**](https://github.com/dzmbs/glosse), a platform for active reading and learning from books.
+- 🌱 Learning agent harnessing, building with pi.dev, and native development.
+- ⚡ I learn best by shipping real-world projects.
+
+## 🚀 Recent work
+
+**[Bartender Robot Sim](https://github.com/UR5-AlienBazaar/bartender_robot_sim)** — a simulated UR5 robot bartender.
+- 👁️ Depth-camera perception (OAK-D, ROS) to check bottle placement.
+- 🏷️ Bottle label recognition with PaddleOCR, with Gemini as a fallback.
+- 🧠 LLM-based label matching and a plain-text `/ask` API route.
+- 🕶️ AR drink menu for Snap Spectacles, built in Lens Studio.
+
+**[Glosse](https://github.com/dzmbs/glosse)** — active reading and learning from books.
+
+## 🛠️ Tech stack
+
+**AI & Robotics**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/PaddleOCR-0062B0?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Langflow-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Lens_Studio-FFFC00?style=flat-square&logo=snapchat&logoColor=black" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,astro,html,css,figma&theme=dark" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=py,nodejs,express,cs,postgres,mysql,mongodb&theme=dark" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=azure,linux,git,grafana,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ser888gio&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ser888gio&layout=compact&hide_border=true&theme=tokyonight" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ser888gio&hide_border=true&theme=tokyonight" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%" />
+</div>
