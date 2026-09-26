@@ -4,11 +4,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+AI+agents+and+LLM-powered+apps;Robotics+%2B+computer+vision+%2B+AR;Full-stack+with+React%2C+Next.js+and+Python;Always+learning+by+shipping+real+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Co-founder+%40+okjul;Red-teaming+AI+agents+before+they+ship;Building+agents+that+touch+real+systems;Robotics+%2B+computer+vision+%2B+AR" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sergiu-nica-2025-ai-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/godbless_nodejs" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://komarev.com/ghpvc/?username=ser888gio&style=for-the-badge&color=7aa2f7&label=Profile+views" alt="Profile views" />
 </div>
 
@@ -16,12 +17,29 @@
 
 ## 👨‍💻 About me
 
-- 🤖 AI engineer working across LLM apps, agents, computer vision and robotics.
-- 🔭 Building [**Glosse**](https://github.com/dzmbs/glosse), a platform for active reading and learning from books.
+- 🛡️ Co-founder and engineering lead at [**okjul**](https://okjul.com) — my main focus right now.
+- 🚗 AI engineer at Škoda Auto (VW Group).
+- 🔭 Also building [**Glosse**](https://github.com/dzmbs/glosse), a platform for active reading and learning from books.
 - 🌱 Learning agent harnessing, building with pi.dev, and native development.
-- ⚡ I learn best by shipping real-world projects.
+- ✍️ Writing publicly on agent harness design.
 
-## 🚀 Recent work
+## 🎯 Currently working on: okjul
+
+**[okjul](https://okjul.com)** — an agent test kit that red-teams AI agents for prompt injection and tool misuse.
+
+- 🔍 Profiles the agent first, then picks only the attacks that fit it.
+- 🧪 Runs agents against fake tools (a fake bank, a fake inbox) and watches what they actually do.
+- 📄 Outputs reproducible evidence: `report.json`, `junit.xml`, `report.html`, `evidence.md`.
+- ⚖️ Maps findings to the EU AI Act, ISO/IEC 42001 and NIST AI RMF.
+- 🚦 In private beta with design partners. [Try the demo →](https://demo.okjul.com/)
+
+## 🏢 Experience
+
+**AI Engineer · Škoda Auto (VW Group)**
+- 📬 Built an autonomous supplier-compliance agent: 1,000+ supplier emails a month at 98% extraction accuracy.
+- 💬 Built a Text-to-SQL copilot used by 200+ non-technical staff.
+
+## 🚀 Other projects
 
 **[Bartender Robot Sim](https://github.com/UR5-AlienBazaar/bartender_robot_sim)** — a simulated UR5 robot bartender.
 - 👁️ Depth-camera perception (OAK-D, ROS) to check bottle placement.
@@ -57,11 +75,6 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
 
 ## 📊 GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ser888gio&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ser888gio&layout=compact&hide_border=true&theme=tokyonight" height="170" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ser888gio&hide_border=true&theme=tokyonight" />
